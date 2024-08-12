@@ -2,7 +2,7 @@
 
 ## Configuración del Entorno
 
-1. **Crear un Entorno Virtual** (si no lo has hecho ya):
+1. **Crear un Entorno Virtual**:
 
     ```bash
     python -m venv venv
